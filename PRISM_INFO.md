@@ -1,3 +1,6 @@
+# THIS DOCUMENT IS OUTDATED - USE THE [CELESTIAL RIFT SUPPORT REPOSITORY](https://github.com/CelestialRift/support) FROM NOW ON
+
+
 # Prism Modpack Information
 
 ## Latest Version: 0.1
